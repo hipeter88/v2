@@ -13,7 +13,7 @@ https://www.v2ray.com
 [教程](https://github.com/233boy/v2ray/wiki/V2Ray%E6%90%AD%E5%BB%BA%E8%AF%A6%E7%BB%86%E5%9B%BE%E6%96%87%E6%95%99%E7%A8%8B)
 
 
-## 更多教程文章
+## 更多文章
 
 https://github.com/233boy/v2ray/wiki
 
@@ -27,4 +27,5 @@ bash <(curl -s -L https:/raw.githubusercontent.com/hipeter88/v2/master/install.s
 ubuntu/debian 系统安装 Curl 方法: apt-get update -y && apt-get install curl -y
 centos 系统安装 Curl 方法: yum update -y && yum install curl -y
 安装好 curl 之后就能安装脚本了
-#  aes-256-gcm
+# 
+aes-256-gcm
